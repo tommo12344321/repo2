@@ -2,4 +2,7 @@
 01 A
 01 B
 01 C
-01 D
+branch b1
+01 A b1
+01 B b1
+

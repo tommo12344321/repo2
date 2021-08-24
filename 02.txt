@@ -2,4 +2,6 @@
 02 A
 02 B
 02 C
-02 D
+branch b1
+02 A b1
+02 B b1
