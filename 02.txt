@@ -5,4 +5,4 @@
 branch b1
 02 A b1
 02 B b1
-02 A Remote
+02 A Remote branch b1
